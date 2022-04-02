@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Raja kopparthi",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayyanababu/wepback.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ayyanababu/wepback/issues"
+  },
+  "homepage": "https://github.com/ayyanababu/wepback#readme"
 }
