@@ -1,0 +1,11 @@
+{
+  "name": "boilerplates",
+  "version": "0.1.0",
+  "description": "learning webpack",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raja kopparthi",
+  "license": "ISC"
+}
